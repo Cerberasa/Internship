@@ -225,7 +225,14 @@ Tổng thời gian: **8 tuần**
 
 ## B. Cost Calculations
 
-Chi tiết chi phí EC2, ECR, CodeBuild được tính bằng AWS Pricing Calculator
+Ước tính chi phí hạ tầng demo (dựa trên AWS Pricing Calculator):
+
+* EC2 x86 (`t3a.micro`, 10% sử dụng): \~0.86 USD/tháng
+* EC2 ARM (`t4g.micro`, 10% sử dụng): \~0.77 USD/tháng
+* ECR lưu trữ + data transfer: \~0.13 USD/tháng
+* CodeBuild (1 build): \~0.10 USD/tháng
+
+Tổng chi phí demo ước tính: **\~1.86 USD/tháng (\~22.32 USD/năm)**
 
 ## C. Architecture Diagrams
 
