@@ -242,4 +242,4 @@ Tổng chi phí demo ước tính: **\~1.86 USD/tháng (\~22.32 USD/năm)**
 
 * [AWS Graviton documentation](https://aws.amazon.com/ec2/graviton/)
 * [AWS CodeBuild - Multi-arch Docker builds](https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html#sample-docker-multiarch)
-* [AWS Pricing Calculator](https://calculator.aws.amazon.com)
+* [AWS Pricing Calculator](https://calculator.aws/)
