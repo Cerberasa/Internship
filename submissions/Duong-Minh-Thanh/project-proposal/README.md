@@ -229,7 +229,7 @@ Chi tiết chi phí EC2, ECR, CodeBuild được tính bằng AWS Pricing Calcul
 
 ## C. Architecture Diagrams
 
-Sơ đồ CI/CD pipeline đa kiến trúc với flow từ Git → CodeBuild → ECR → EC2
+![image](PNG.png)
 
 ## D. References
 
